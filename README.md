@@ -5,9 +5,9 @@ This is my portfolio--->
 #### Technical Skills: Python, SQL, AWS, MATLAB
 
 ## Education
-- Ph.D. | Jadavpur Universiy (_Ongoing_)								       		
-- M.Tech., Computer Science & Engineering	| Jadavpur University  (_2022_)	 			        		
-- B.Tech., Computer Science & Engineering | Maulana Abul Kalam Azad University of Technology, West Bengal (_2017_)
+- Ph.D,   Computer Science & Engineering  | Jadavpur Universiy (_Ongoing_)								       		
+- M.Tech, Computer Science & Engineering	| Jadavpur University  (_2022_)	 			        		
+- B.Tech, Computer Science & Engineering  | Maulana Abul Kalam Azad University of Technology, West Bengal (_2017_)
 
 ## Work Experience
 **JRF @ Jadavpur university (_March 2023 - Present_)**
